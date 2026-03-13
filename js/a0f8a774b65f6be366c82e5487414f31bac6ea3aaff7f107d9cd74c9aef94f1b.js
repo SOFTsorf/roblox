@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Feature.BlockingModal"] = {"Heading.BlockUser":"{DisplayName} blockieren?","Message.BlockConfirmation":"Wenn du diese Person blockierst, wird sie als Connection oder Follower entfernt. Er oder sie kann dir keine Nachrichten, Anfragen oder Einladungen mehr senden.<br /><br />Die Person wird nicht darüber benachrichtigt, dass du sie blockiert hast.","Action.Block":"Blockieren","Action.Cancel":"Abbrechen","Action.BlockAndReport":"Blockieren und melden","Action.Unblock":"Blockierung aufheben","Heading.UnblockUser":"Blockierung von {DisplayName} aufheben?","Message.UnblockConfirmation":"Der Benutzer wird nicht darüber benachrichtigt, dass du seine Blockierung aufgehoben hast."};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.BlockingModal");
