@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Amp.FAEUpsell"] = {"Modal.ExternalLink.Title":"Altersprüfung erforderlich","Modal.ExternalLink.ButtonStart":"Altersschätzung starten","Modal.ExternalLink.Text":"Verifiziere dein Alter, um den Chat ohne Filter und den Party-Sprachchat freizuschalten.","Modal.ExternalLink.ButtonCancel":"Abbrechen","Modal.Failed.Title":"Fehler bei der Altersprüfung","Modal.Failed.Text":"Etwas ist schiefgelaufen. Bitte versuche es später erneut.","Modal.Failed.ButtonClose":"Schließen","Modal.Failed.ButtonRetry":"Erneut versuchen","Modal.Loading.Text":"Dies kann einen Moment dauern. Wenn du den Vorgang abbrichst, wird dein Alter möglicherweise nicht überprüft.","Modal.Loading.ButtonCancel":"Abbrechen"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Amp.FAEUpsell");
